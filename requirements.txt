@@ -1,0 +1,6 @@
+# List of dependencies
+requests
+telethon
+redis
+elasticsearch
+celery
